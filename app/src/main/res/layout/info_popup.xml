@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="320dp"
+    android:layout_height="500dp"
+    android:layout_gravity="center"
+    android:background="@color/darkPurple">
+
+    <ImageView
+        android:id="@+id/btnExit"
+        android:layout_width="58dp"
+        android:layout_height="67dp"
+        android:contentDescription="@string/bold_red_clickable_x_used_to_exit_the_dialogue"
+        android:onClick="onClickBtnExit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_delete" />
+
+    <ImageView
+        android:id="@+id/infoIcon"
+        android:layout_width="45dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/white_circle_with_i_character_used_to_represent_the_word_information"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_dialog_info" />
+
+    <TextView
+        android:id="@+id/txtInfo"
+        android:layout_width="297dp"
+        android:layout_height="345dp"
+        android:fontFamily="@font/alegreya_sans_sc_medium"
+        android:text="@string/this_is_our_official_counter_tool_where_you_can_keep_track_of_all_the_new_friends_you_ve_made_the_awesome_workshops_you_ve_attended_and_even_how_many_new_acquaintances_you_ve_lost_after_getting_incredibly_frustrated_while_trying_to_complete_your_project_on_time"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="23sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.521"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.587" />
+
+    <TextView
+        android:id="@+id/txtMoreInfo"
+        android:layout_width="278dp"
+        android:layout_height="52dp"
+        android:text="@string/you_also_have_the_option_of_resetting_the_counter_at_the_end_to_track_your_progress_at_other_hackathons"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="12sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtInfo" />
+</androidx.constraintlayout.widget.ConstraintLayout>

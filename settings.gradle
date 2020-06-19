@@ -1,0 +1,2 @@
+rootProject.name='cuHacking Counter'
+include ':app'

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">cuHacking Counter</string>
+
+    <string name="title_activity_bad_decision">BadDecision</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="you_should_have_picked_yes">You should have picked Yes</string>
+    <string name="no">No</string>
+    <string name="cu">cu</string>
+    <string name="hacking">Hacking</string>
+    <string name="counter">Counter</string>
+    <string name="get_counting">Get counting?</string>
+    <string name="yes">Yes</string>
+    <string name="logo_of_cuhacking">Logo of cuHacking</string>>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="reset">Reset</string>
+    <string name="information_icon">Information icon</string>
+    <string name="bold_red_clickable_x_used_to_exit_the_dialogue">Bold red clickable \'X\' used to exit the dialogue.</string>
+    <string name="you_also_have_the_option_of_resetting_the_counter_at_the_end_to_track_your_progress_at_other_hackathons">You also have the option of resetting the counter at the end to track your progress at other hackathons!</string>
+    <string name="this_is_our_official_counter_tool_where_you_can_keep_track_of_all_the_new_friends_you_ve_made_the_awesome_workshops_you_ve_attended_and_even_how_many_new_acquaintances_you_ve_lost_after_getting_incredibly_frustrated_while_trying_to_complete_your_project_on_time">This is our official counter tool where you can keep track of all the new friends you\'ve made, the awesome workshops you\'ve attended, and even how many new acquaintances you’ve lost after getting incredibly frustrated while trying to complete your project on time!</string>
+    <string name="white_circle_with_i_character_used_to_represent_the_word_information">White circle with \'i\' character used to represent the word \'information\'</string>
+    <string name="go_back">⬅ Go Back</string>
+    <string name="zero">0</string>
+</resources>
