@@ -6,6 +6,6 @@ A simple counter application that allows you to increase and decrease a counter 
 
 *The features of this applications can be viewed in the gif below.*
 
-<img src="demo.gif" alt="A short gif demonstrating the features of the application."/>
+<img src="https://github.com/safa-howaid/cuHacking_Counter_app/blob/master/demo.gif" alt="A short gif demonstrating the features of the application."/>
 
 
