@@ -4,7 +4,7 @@ A simple counter application that allows you to increase and decrease a counter 
 
 <a href="https://raw.githubusercontent.com/safa-howaid/cuHacking_Counter_app/master/cuHacking_counter.apk">Click Here to download the APK file</a>
 
-*The features of this applications can be viewed in the gif below.*
+*The features of this application can be viewed in the gif below.*
 
 <img src="https://github.com/safa-howaid/cuHacking_Counter_app/blob/master/demo.gif" alt="A short gif demonstrating the features of the application."/>
 
